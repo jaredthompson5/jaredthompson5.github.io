@@ -1,4 +1,15 @@
+### Education
+B.S. Wright State University, April 2023
 
-# Jared Thompson
+### Current Skills
+-Problem Solving
+-Critical Thinking
+-Hard Working
 
-## Testing
+### Technical Abilities
+- Microsoft Word, Powerpoint and Excel
+- SAS
+- Python
+- R
+
+
