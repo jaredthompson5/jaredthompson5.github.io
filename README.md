@@ -14,6 +14,6 @@ B.S. Wright State University, April 2023
 - Python
 - R
 
-! [headshot](images/B6CAAC66-D752-4838-8837-A4B90C4D0AA3 Small.jpeg)
+! [headshot](jaredthompson5.github.io/images/B6CAAC66-D752-4838-8837-A4B90C4D0AA3 Small.jpeg)
 
 
