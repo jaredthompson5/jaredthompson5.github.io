@@ -1,3 +1,5 @@
+# Jared Thompson
+
 ### Education
 B.S. Wright State University, April 2023
 
