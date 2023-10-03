@@ -1,5 +1,4 @@
-theme: architect
 
-###### Jared Thompson
+# Jared Thompson
 
 ## Testing
