@@ -1,7 +1,7 @@
 
 ![Headshot](/B6CAAC66-D752-4838-8837-A4B90C4D0AA3 Small.jpeg)
 
-< img src= "B6CAAC66-D752-4838-8837-A4B90C4D0AA3 Small.jpeg" width="150" height="150" >
+< img src= "B6CAAC66-D752-4838-8837-A4B90C4D0AA3 Small.jpeg" >
 
 ### Education
 B.S. Wright State University, April 2023
